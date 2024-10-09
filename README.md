@@ -1,2 +1,5 @@
-# portfolio
-Welcome to my personal portfolio website! Here, you’ll find a showcase of my projects, skills, and experiences. I’ve built this site to highlight my work in web development, design, and other creative pursuits. Explore my latest projects, learn more about my background, and discover the areas I’m passionate about. 
+# Portfolio
+Welcome to my personal portfolio! This website showcases my journey through various projects and initiatives, highlighting my passion for using technology to foster community, inspire positive change, and solve real-world problems.
+
+About Me
+I’m Nitai, a creative thinker and problem-solver with a background in kinesiology, tech, and community building. I’m drawn to projects that blend health, wellness, and technology, and I love exploring how design can positively impact people’s lives. From UX design and product development to social good initiatives, I’m always looking for ways to make a difference.
